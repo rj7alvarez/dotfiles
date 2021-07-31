@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rj7alvarez@gmail.com
+	name = roman alvarez
